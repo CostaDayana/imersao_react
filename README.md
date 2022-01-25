@@ -7,3 +7,5 @@
 Tecnologias ultilizadas nesse Projeto:
 - HTML/ CSS / JS 
 - REACT JS
+
+![img](https://github.com/CostaDayana/imersao_react/blob/main/img/aluracord.PNG)
